@@ -55,11 +55,11 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: "Nhớ follow kênh tiktok @chinhsmafia.internet",
-                    body: "Một follow của bạn, một niềm vui của mình 💛,Cre:@duyvinh.09",
+                    body: "Cảm ơn mọi người ạa😍",
                     imageURL: "https://i.ibb.co/Fqjg14J5/IMG-5305.jpg"
                 }
             ],
-            primary_button_title: "Xong rồi nhé!",
+            primary_button_title: "Xong rui nhee!",
             campaign: "locket_gold_welcome_v3",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
@@ -402,7 +402,7 @@ if (ua.includes("Locket")) {
             {
                 section: "🎨 Decorative by TranAnhChinh",
                 items: [
-                    { overlay_id: "caption:TranAnhChinh", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "teddybear.fill", type: "sf_symbol", color: "#183153" }, max_lines: 1, text: "TranAnhChinh", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:TranAnhChinh", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "teddybear", type: "sf_symbol", color: "#183153" }, max_lines: 1, text: "TranAnhChinh", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:snake_vibes", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Snake Vibes", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },
